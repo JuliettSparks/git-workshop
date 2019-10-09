@@ -15,7 +15,7 @@
 ## Asistentes
 | Nombre      | Github | Twitter |
 | ----------- | ----------- | ----------- |
-| Nombre            | [@usuario](https://github.com/usuario) | N/A |
+| Nombre            | [@JuliettSparks](https://github.com/JuliettSparks) | N/A |
 
 ## Presentación
 * [Taller de Git y Github 101](https://docs.google.com/presentation/d/1DtTlWPGSeL7lq84ifD7ph-BeEzl70qUOJobuODTq8_E/edit?usp=sharing)
